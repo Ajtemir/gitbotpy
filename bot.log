@@ -1,0 +1,1165 @@
+root - INFO - bot starting
+apscheduler.scheduler - INFO - Scheduler started
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+apscheduler.scheduler - INFO - Scheduler has been shut down
+root - INFO - bot starting
+apscheduler.scheduler - INFO - Scheduler started
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+apscheduler.scheduler - INFO - Scheduler has been shut down
+2020-12-01 23:59:11,427 - root - INFO - bot starting
+2020-12-01 23:59:11,433 - apscheduler.scheduler - INFO - Scheduler started
+2020-12-30 16:39:26,585 - root - INFO - bot starting
+2020-12-30 16:39:26,612 - apscheduler.scheduler - INFO - Scheduler started
+2020-12-30 16:47:03,423 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 16:47:15,866 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 16:47:54,401 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 17:41:47,572 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 17:41:54,177 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 19:35:22,888 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2020-12-30 19:35:23,576 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2020-12-30 19:36:09,556 - root - INFO - bot starting
+2020-12-30 19:36:09,556 - apscheduler.scheduler - INFO - Scheduler started
+2020-12-30 19:36:14,491 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 18, in greet_user
+    bot.sendMessage(chat_id=update.message.chat_id, text="Здравствуйте.")
+AttributeError: 'Update' object has no attribute 'sendMessage'
+2020-12-30 19:36:17,823 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 18, in greet_user
+    bot.sendMessage(chat_id=update.message.chat_id, text="Здравствуйте.")
+AttributeError: 'Update' object has no attribute 'sendMessage'
+2020-12-30 19:36:19,039 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 18, in greet_user
+    bot.sendMessage(chat_id=update.message.chat_id, text="Здравствуйте.")
+AttributeError: 'Update' object has no attribute 'sendMessage'
+2020-12-30 19:37:35,899 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 18, in greet_user
+    bot.sendMessage(chat_id=update.message.chat_id, text="Здравствуйте.")
+AttributeError: 'Update' object has no attribute 'sendMessage'
+2020-12-30 19:38:20,378 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 18, in greet_user
+    bot.sendMessage(chat_id=update.message.chat_id, text="Здравствуйте.")
+AttributeError: 'Update' object has no attribute 'sendMessage'
+2020-12-30 19:39:13,819 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2020-12-30 19:39:13,819 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2020-12-30 19:44:44,365 - root - INFO - bot starting
+2020-12-30 19:44:44,366 - apscheduler.scheduler - INFO - Scheduler started
+2020-12-30 19:44:47,193 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_to_message(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 19:44:49,535 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\dispatcher.py", line 425, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\telegram\ext\handler.py", line 145, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_to_message(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2020-12-30 19:49:42,022 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2020-12-30 19:49:42,022 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-10 02:32:08,225 - root - INFO - bot starting
+2021-01-10 02:32:08,249 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-10 02:34:24,248 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:34:59,347 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:37:26,632 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-10 02:37:26,632 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-10 02:37:35,457 - root - INFO - bot starting
+2021-01-10 02:37:35,457 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-10 02:37:37,131 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:37:43,444 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:37:45,183 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:38:23,900 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:39:34,094 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-10 02:39:34,095 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-10 02:58:32,017 - root - INFO - bot starting
+2021-01-10 02:58:32,017 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-10 02:58:45,983 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:59:11,541 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:59:13,508 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 02:59:48,757 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-10 02:59:48,758 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-10 02:59:57,747 - telegram.ext.updater - WARNING - Exiting immediately!
+2021-01-10 03:00:00,521 - root - INFO - bot starting
+2021-01-10 03:00:00,522 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-10 03:00:05,155 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 03:00:28,393 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-10 03:00:52,053 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-10 03:00:52,054 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-11 05:54:11,550 - root - INFO - bot starting
+2021-01-11 05:54:11,582 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-11 05:54:13,124 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-11 05:54:30,315 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 04:32:09,244 - root - INFO - bot starting
+2021-01-12 04:32:09,284 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 04:32:11,492 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 04:32:11,518 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 04:32:39,776 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 04:32:39,777 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 04:56:08,750 - root - INFO - bot starting
+2021-01-12 04:56:08,751 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 04:56:20,576 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 04:56:23,341 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 04:56:38,696 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 04:56:38,696 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 04:56:46,393 - telegram.ext.updater - WARNING - Exiting immediately!
+2021-01-12 04:59:16,336 - root - INFO - bot starting
+2021-01-12 05:03:03,248 - root - INFO - bot starting
+2021-01-12 05:03:03,249 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 05:03:04,912 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:04,914 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:04,915 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:04,916 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:10,522 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:12,178 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:17,428 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 21, in talk_to_me
+    user_text = update.message.text
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:03:36,323 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 21, in talk_to_me
+    user_text = update.message.text
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:08:25,355 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 05:08:25,355 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 05:08:56,905 - root - INFO - bot starting
+2021-01-12 05:08:56,905 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 05:09:38,602 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 05:09:38,603 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 05:10:42,475 - root - INFO - bot starting
+2021-01-12 05:10:42,475 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 05:10:49,368 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:10:54,387 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 21, in talk_to_me
+    user_text = update.message.text
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:19:15,782 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 05:19:15,782 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 05:20:17,439 - root - INFO - bot starting
+2021-01-12 05:20:17,439 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 05:20:20,291 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:22:19,397 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 05:22:19,397 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 05:23:57,032 - root - INFO - bot starting
+2021-01-12 05:23:57,033 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 05:24:00,428 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text=text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:24:06,752 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 21, in talk_to_me
+    user_text = update.message.text
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 05:27:32,378 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 05:27:32,378 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 06:00:36,418 - root - INFO - bot starting
+2021-01-12 06:00:36,418 - apscheduler.scheduler - INFO - Scheduler started
+2021-01-12 06:00:42,799 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 17, in greet_user
+    update.message.reply_text(text)
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 06:00:48,752 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 432, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 156, in handle_update
+    return self.callback(update, context)
+  File "bot.py", line 21, in talk_to_me
+    user_text = update.message.text
+AttributeError: 'CallbackContext' object has no attribute 'message'
+2021-01-12 06:00:56,372 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-12 06:00:56,372 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2021-01-12 06:09:25,210 - root - INFO - bot starting
+2021-01-13 01:11:28,731 - root - INFO - bot starting
+2021-01-13 19:46:48,618 - root - INFO - bot starting
+2021-01-13 19:50:30,988 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:07:13,393 - root - INFO - bot starting
+2021-01-13 20:07:57,415 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 20, in greet_user
+    emo = emojize(choice(setting.USER_EMOJI), use_aliases=True)
+NameError: name 'setting' is not defined
+2021-01-13 20:08:27,725 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 20, in greet_user
+    emo = emojize(choice(setting.USER_EMOJI), use_aliases=True)
+NameError: name 'setting' is not defined
+2021-01-13 20:09:03,673 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:09:13,159 - root - INFO - bot starting
+2021-01-13 20:09:17,014 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 20, in greet_user
+    emo = emojize(choice(setting.USER_EMOJI), use_aliases=True)
+NameError: name 'setting' is not defined
+2021-01-13 20:09:29,401 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 20, in greet_user
+    emo = emojize(choice(setting.USER_EMOJI), use_aliases=True)
+NameError: name 'setting' is not defined
+2021-01-13 20:10:13,784 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:10:16,771 - root - INFO - bot starting
+2021-01-13 20:10:40,281 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:10:43,776 - root - INFO - bot starting
+2021-01-13 20:20:17,421 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:20:27,311 - telegram.ext.updater - WARNING - Exiting immediately!
+2021-01-13 20:20:32,458 - root - INFO - bot starting
+2021-01-13 20:20:54,395 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Fgh
+2021-01-13 20:25:09,611 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:25:23,235 - root - INFO - bot starting
+2021-01-13 20:25:28,631 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 30, in talk_to_me
+    user_text = "Hello, {},{}! You wrote:{} .".format(update.message.chat.first_name,user_data['emo'],update.message.text)
+KeyError: 'emo'
+2021-01-13 20:26:07,090 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:26:38,482 - root - INFO - bot starting
+2021-01-13 20:26:48,429 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: F
+2021-01-13 20:36:20,702 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:36:30,886 - root - INFO - bot starting
+2021-01-13 20:36:32,533 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: G
+2021-01-13 20:36:45,156 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Fhk
+2021-01-13 20:36:50,901 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 20:37:00,680 - root - INFO - bot starting
+2021-01-13 20:37:10,878 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Bshrjr
+2021-01-13 20:37:17,884 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Xff
+2021-01-13 21:01:04,621 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:01:15,486 - root - INFO - bot starting
+2021-01-13 21:01:27,026 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Fg
+2021-01-13 21:02:10,242 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:10:09,652 - root - INFO - bot starting
+2021-01-13 21:10:32,144 - root - INFO - bot starting
+2021-01-13 21:12:07,767 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:13:02,556 - root - INFO - bot starting
+2021-01-13 21:13:31,132 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Fg
+2021-01-13 21:14:17,853 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:21:23,569 - root - INFO - bot starting
+2021-01-13 21:21:38,804 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:21:42,734 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:23:08,882 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:23:17,225 - root - INFO - bot starting
+2021-01-13 21:23:18,843 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:23:33,558 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:27:11,931 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:27:12,080 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\ProgramData\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\ProgramData\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 40, in talk_to_me
+    update.message.reply_text(user_text)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\message.py", line 515, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "<decorator-gen-2>", line 2, in send_message
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 348, in send_message
+    timeout=timeout, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 333, in post
+    **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 230, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2021-01-13 21:27:27,917 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:30:24,715 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: H
+2021-01-13 21:30:29,351 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:30:32,306 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:30:33,004 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:32:13,766 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:32:17,835 - root - INFO - bot starting
+2021-01-13 21:32:20,996 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:33:00,747 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Fgh
+2021-01-13 21:33:06,847 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:33:08,659 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:35:26,367 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:35:26,511 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\ProgramData\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\ProgramData\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 40, in talk_to_me
+    update.message.reply_text(user_text)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\message.py", line 515, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "<decorator-gen-2>", line 2, in send_message
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 348, in send_message
+    timeout=timeout, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 333, in post
+    **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 230, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2021-01-13 21:35:57,603 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:36:02,095 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:36:37,969 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Gjfjf
+2021-01-13 21:38:37,872 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\ProgramData\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "C:\ProgramData\Anaconda3\lib\http\client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\ProgramData\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\ProgramData\Anaconda3\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 45, in send_cat_picture
+    bot.send_photo(chat_id=update.message.chat.id,photo=open(cat_pic,'rb'))
+  File "<decorator-gen-5>", line 2, in send_photo
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 497, in send_photo
+    **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 328, in post
+    result = self._request_wrapper('POST', url, fields=data, **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 230, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2021-01-13 21:38:56,915 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:39:01,861 - root - INFO - bot starting
+2021-01-13 21:39:06,608 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:39:08,104 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:39:08,356 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:40:10,768 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:41:20,988 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:41:27,201 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:41:33,621 - root - INFO - bot starting
+2021-01-13 21:41:37,262 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Cменить аватарку
+2021-01-13 21:44:21,065 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:44:25,345 - root - INFO - bot starting
+2021-01-13 21:57:15,644 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 21:57:54,976 - root - INFO - bot starting
+2021-01-13 21:58:08,746 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 25, in greet_user
+    contact_button = KeyboarButton('Прислать контакты', request_contact=True)
+NameError: name 'KeyboarButton' is not defined
+2021-01-13 21:58:28,018 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 25, in greet_user
+    contact_button = KeyboarButton('Прислать контакты', request_contact=True)
+NameError: name 'KeyboarButton' is not defined
+2021-01-13 22:00:10,579 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:00:13,650 - root - INFO - bot starting
+2021-01-13 22:04:22,745 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:13:05,488 - root - INFO - bot starting
+2021-01-13 22:13:27,299 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 64, in get_location
+    print(update.message.location)
+NameError: name 'update' is not defined
+2021-01-13 22:13:36,407 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 60, in get_contact
+    print(update.message.contact)
+NameError: name 'update' is not defined
+2021-01-13 22:14:11,937 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 60, in get_contact
+    print(update.message.contact)
+NameError: name 'update' is not defined
+2021-01-13 22:15:58,606 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 60, in get_contact
+    print(update.message.contact)
+NameError: name 'update' is not defined
+2021-01-13 22:16:29,111 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 64, in get_location
+    print(update.message.location)
+NameError: name 'update' is not defined
+2021-01-13 22:16:42,010 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 60, in get_contact
+    print(update.message.contact)
+NameError: name 'update' is not defined
+2021-01-13 22:17:33,354 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:17:42,886 - root - INFO - bot starting
+2021-01-13 22:28:44,574 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:28:55,473 - root - INFO - bot starting
+2021-01-13 22:33:16,476 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:33:25,319 - root - INFO - bot starting
+2021-01-13 22:33:27,167 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 49, in change_avatar
+    update.message.reply_text('готово:{}'.format(emo),reply_markup=get_keyboard)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\message.py", line 515, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "<decorator-gen-2>", line 2, in send_message
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 348, in send_message
+    timeout=timeout, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 331, in post
+    body=json.dumps(data).encode('utf-8'),
+  File "C:\ProgramData\Anaconda3\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type function is not JSON serializable
+2021-01-13 22:33:34,920 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Аро
+2021-01-13 22:33:59,593 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in send_cat_picture
+    bot.send_photo(chat_id=update.message.chat.id,photo=open(cat_pic,'rb'),reply_markup=get_keyboard)
+  File "<decorator-gen-5>", line 2, in send_photo
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 497, in send_photo
+    **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 328, in post
+    result = self._request_wrapper('POST', url, fields=data, **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 138, in request_encode_body
+    body, content_type = encode_multipart_formdata(fields, boundary=multipart_boundary)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\filepost.py", line 86, in encode_multipart_formdata
+    body.write(data)
+TypeError: a bytes-like object is required, not 'function'
+2021-01-13 22:34:07,165 - root - INFO - User:Mondeisens,Chat id: 971607573, Message: Ggkgk
+2021-01-13 22:34:32,415 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in send_cat_picture
+    bot.send_photo(chat_id=update.message.chat.id,photo=open(cat_pic,'rb'),reply_markup=get_keyboard)
+  File "<decorator-gen-5>", line 2, in send_photo
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 497, in send_photo
+    **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 328, in post
+    result = self._request_wrapper('POST', url, fields=data, **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 138, in request_encode_body
+    body, content_type = encode_multipart_formdata(fields, boundary=multipart_boundary)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\filepost.py", line 86, in encode_multipart_formdata
+    body.write(data)
+TypeError: a bytes-like object is required, not 'function'
+2021-01-13 22:34:47,365 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in send_cat_picture
+    bot.send_photo(chat_id=update.message.chat.id,photo=open(cat_pic,'rb'),reply_markup=get_keyboard)
+  File "<decorator-gen-5>", line 2, in send_photo
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 497, in send_photo
+    **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 328, in post
+    result = self._request_wrapper('POST', url, fields=data, **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 138, in request_encode_body
+    body, content_type = encode_multipart_formdata(fields, boundary=multipart_boundary)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\filepost.py", line 86, in encode_multipart_formdata
+    body.write(data)
+TypeError: a bytes-like object is required, not 'function'
+2021-01-13 22:36:02,507 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:36:05,451 - root - INFO - bot starting
+2021-01-13 22:36:55,533 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 43, in send_cat_picture
+    bot.send_photo(chat_id=update.message.chat.id,photo=open(cat_pic,'rb'),reply_markup=get_keyboard)
+  File "<decorator-gen-5>", line 2, in send_photo
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 497, in send_photo
+    **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 328, in post
+    result = self._request_wrapper('POST', url, fields=data, **urlopen_kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 224, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 138, in request_encode_body
+    body, content_type = encode_multipart_formdata(fields, boundary=multipart_boundary)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\filepost.py", line 86, in encode_multipart_formdata
+    body.write(data)
+TypeError: a bytes-like object is required, not 'function'
+2021-01-13 22:36:57,469 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 49, in change_avatar
+    update.message.reply_text('готово:{}'.format(emo),reply_markup=get_keyboard)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\message.py", line 515, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "<decorator-gen-2>", line 2, in send_message
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 348, in send_message
+    timeout=timeout, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 331, in post
+    body=json.dumps(data).encode('utf-8'),
+  File "C:\ProgramData\Anaconda3\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type function is not JSON serializable
+2021-01-13 22:37:30,010 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:37:43,801 - root - INFO - bot starting
+2021-01-13 22:37:45,206 - telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\dispatcher.py", line 340, in process_update
+    handler.handle_update(update, self, check, context)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\ext\handler.py", line 122, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 49, in change_avatar
+    update.message.reply_text('готово:{}'.format(emo),reply_markup=get_keyboard)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\message.py", line 515, in reply_text
+    return self.bot.send_message(self.chat_id, *args, **kwargs)
+  File "<decorator-gen-2>", line 2, in send_message
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 67, in decorator
+    result = func(*args, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 348, in send_message
+    timeout=timeout, **kwargs)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\bot.py", line 175, in _message
+    result = self._request.post(url, data, timeout=timeout)
+  File "D:\pythonudemy\lesson1\botpy\env\lib\site-packages\telegram\utils\request.py", line 331, in post
+    body=json.dumps(data).encode('utf-8'),
+  File "C:\ProgramData\Anaconda3\lib\json\__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "C:\ProgramData\Anaconda3\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type function is not JSON serializable
+2021-01-13 22:38:52,954 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-01-13 22:38:57,005 - root - INFO - bot starting
+2021-01-13 22:40:37,865 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
