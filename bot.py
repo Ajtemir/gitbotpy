@@ -100,7 +100,7 @@ def main():
 main()
 
 
-# 3 telegram 2 emoji
+
 
 
 
